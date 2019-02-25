@@ -2,7 +2,7 @@
     "name": "vscode-wsdl2rest",
     "displayName": "wsdl2rest",
     "description": "A VS Code extension supporting wsdl2rest",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "camel-tooling",
     "preview": true,
     "repository": {
